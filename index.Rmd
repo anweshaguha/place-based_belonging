@@ -1,0 +1,20 @@
+---
+title: "Place-Based Belonging"
+output: bookdown::gitbook
+site: bookdown::bookdown_site
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Student Wellbeing and Success Initiative: Place-Based Belonging 1.0
+
+<span style = "color: #11E8FF">Document produced</span> in `R` using `bookdown`. 
+
+<span style = "color: #11E8FF">Please contact</span> Brian Clark with questions or suggestions for improvement -- preferred via Teams, otherwise clark13@uoregon.edu. 
+
+<span style = "color: #11E8FF">Please use</span> the following when referencing this document:
+Clark, B. A. M. (2023). *Place-Based Belonging 1.0*. Office of Assessment and Research, Division of Student Life, University of Oregon.
+
+
